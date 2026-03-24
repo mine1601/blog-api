@@ -1,0 +1,35 @@
+📚 Blog API
+
+📌 Description
+Ce projet est une API REST de gestion de blog.  
+Elle permet de créer, lire, modifier et supprimer des articles.
+
+L’API utilise **SQLite** comme base de données et est documentée avec **Swagger**.  
+Les tests des routes peuvent être effectués avec **Postman**.
+
+---
+
+⚙️ Technologies utilisées
+- Node.js
+- Express.js
+- SQLite
+- Swagger (documentation API)
+- Postman (tests API)
+
+---
+
+🚀 Fonctionnalités
+- Créer un article
+- Lister tous les articles
+- Voir un article par ID
+- Modifier un article
+- Supprimer un article
+
+---
+
+📁 Installation du projet
+
+```bash
+git clone https://github.com/mine1601/blog-api.git
+cd blog-api
+npm install
